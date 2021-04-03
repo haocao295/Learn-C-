@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\Ôn tập\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Ôn tập\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.Form1.resources
+C:\Users\Administrator\Desktop\Ôn tập\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Ôn tập\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Ôn tập\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ôn tập\DemoQLTruongHoc\DemoQLTruongHoc\bin\Debug\DemoQLTruongHoc.exe.config
+C:\Users\Administrator\Desktop\Ôn tập\DemoQLTruongHoc\DemoQLTruongHoc\bin\Debug\DemoQLTruongHoc.exe
+C:\Users\Administrator\Desktop\Ôn tập\DemoQLTruongHoc\DemoQLTruongHoc\bin\Debug\DemoQLTruongHoc.pdb
+C:\Users\Administrator\Desktop\Ôn tập\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.exe
+C:\Users\Administrator\Desktop\Ôn tập\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.pdb
+E:\lab8\DemoQLTruongHoc\DemoQLTruongHoc\bin\Debug\DemoQLTruongHoc.exe.config
+E:\lab8\DemoQLTruongHoc\DemoQLTruongHoc\bin\Debug\DemoQLTruongHoc.exe
+E:\lab8\DemoQLTruongHoc\DemoQLTruongHoc\bin\Debug\DemoQLTruongHoc.pdb
+E:\lab8\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.csprojAssemblyReference.cache
+E:\lab8\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.Form1.resources
+E:\lab8\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.Properties.Resources.resources
+E:\lab8\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.csproj.GenerateResource.cache
+E:\lab8\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.csproj.CoreCompileInputs.cache
+E:\lab8\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.exe
+E:\lab8\DemoQLTruongHoc\DemoQLTruongHoc\obj\Debug\DemoQLTruongHoc.pdb

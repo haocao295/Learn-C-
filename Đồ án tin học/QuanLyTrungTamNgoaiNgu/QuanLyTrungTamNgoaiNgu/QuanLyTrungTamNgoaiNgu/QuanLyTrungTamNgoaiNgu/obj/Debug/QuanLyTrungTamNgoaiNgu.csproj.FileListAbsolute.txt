@@ -1,0 +1,88 @@
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojAssemblyReference.cache
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.cache
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.CoreCompileInputs.cache
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopGD.resources
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.KhoaGD.resources
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopKhoaGD.resources
+D:\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.TrangChu.resources
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.HocVienGD.resources
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.KhoaGD.resources
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopGD.resources
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopKhoaGD.resources
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.PhieuDangKyGD.resources
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.TrangChu.resources
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Admin\Desktop\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.HocVienGD.resources
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.KhoaGD.resources
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopGD.resources
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopKhoaGD.resources
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.PhieuDangKyGD.resources
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.TrangChu.resources
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\ACER\Downloads\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.HocVienGD.resources
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.KhoaGD.resources
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopGD.resources
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopKhoaGD.resources
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.PhieuDangKyGD.resources
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.TrangChu.resources
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\ACER\Downloads\lachongduy\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojAssemblyReference.cache
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.HocVienGD.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.KhoaGD.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopGD.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopKhoaGD.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.PhieuDangKyGD.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.TrangChu.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.cache
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.CoreCompileInputs.cache
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojAssemblyReference.cache
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.HocVienGD.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.KhoaGD.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopGD.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.LopKhoaGD.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.GiaoDien.PhieuDangKyGD.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.TrangChu.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.cache
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.CoreCompileInputs.cache
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Visio\Codes\OOP\Đồ án tin học\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb

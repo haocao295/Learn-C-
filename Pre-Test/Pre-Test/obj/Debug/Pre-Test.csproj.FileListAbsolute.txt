@@ -1,0 +1,10 @@
+C:\Users\Visio\Codes\OOP\Pre-Test\Pre-Test\bin\Debug\Pre-Test.exe.config
+C:\Users\Visio\Codes\OOP\Pre-Test\Pre-Test\bin\Debug\Pre-Test.exe
+C:\Users\Visio\Codes\OOP\Pre-Test\Pre-Test\bin\Debug\Pre-Test.pdb
+C:\Users\Visio\Codes\OOP\Pre-Test\Pre-Test\obj\Debug\Pre-Test.csprojAssemblyReference.cache
+C:\Users\Visio\Codes\OOP\Pre-Test\Pre-Test\obj\Debug\Pre_Test.Form1.resources
+C:\Users\Visio\Codes\OOP\Pre-Test\Pre-Test\obj\Debug\Pre_Test.Properties.Resources.resources
+C:\Users\Visio\Codes\OOP\Pre-Test\Pre-Test\obj\Debug\Pre-Test.csproj.GenerateResource.cache
+C:\Users\Visio\Codes\OOP\Pre-Test\Pre-Test\obj\Debug\Pre-Test.csproj.CoreCompileInputs.cache
+C:\Users\Visio\Codes\OOP\Pre-Test\Pre-Test\obj\Debug\Pre-Test.exe
+C:\Users\Visio\Codes\OOP\Pre-Test\Pre-Test\obj\Debug\Pre-Test.pdb

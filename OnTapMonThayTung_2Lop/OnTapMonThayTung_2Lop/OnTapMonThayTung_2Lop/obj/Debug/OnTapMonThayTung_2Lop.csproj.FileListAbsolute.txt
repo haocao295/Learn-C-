@@ -1,0 +1,12 @@
+E:\C++\LapTrinhHuongDoiTuong\Winform\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\bin\Debug\OnTapMonThayTung_2Lop.exe.config
+E:\C++\LapTrinhHuongDoiTuong\Winform\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\bin\Debug\OnTapMonThayTung_2Lop.exe
+E:\C++\LapTrinhHuongDoiTuong\Winform\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\bin\Debug\OnTapMonThayTung_2Lop.pdb
+E:\C++\LapTrinhHuongDoiTuong\Winform\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\obj\Debug\OnTapMonThayTung_2Lop.csprojResolveAssemblyReference.cache
+E:\C++\LapTrinhHuongDoiTuong\Winform\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\obj\Debug\OnTapMonThayTung_2Lop.Form1.resources
+E:\C++\LapTrinhHuongDoiTuong\Winform\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\obj\Debug\OnTapMonThayTung_2Lop.Properties.Resources.resources
+E:\C++\LapTrinhHuongDoiTuong\Winform\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\obj\Debug\OnTapMonThayTung_2Lop.csproj.GenerateResource.Cache
+E:\C++\LapTrinhHuongDoiTuong\Winform\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\obj\Debug\OnTapMonThayTung_2Lop.exe
+E:\C++\LapTrinhHuongDoiTuong\Winform\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\obj\Debug\OnTapMonThayTung_2Lop.pdb
+E:\C++\LapTrinhHuongDoiTuong\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\bin\Debug\OnTapMonThayTung_2Lop.exe.config
+E:\C++\LapTrinhHuongDoiTuong\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\obj\Debug\OnTapMonThayTung_2Lop.exe
+E:\C++\LapTrinhHuongDoiTuong\OnTapMonThayTung_2Lop\OnTapMonThayTung_2Lop\obj\Debug\OnTapMonThayTung_2Lop.pdb

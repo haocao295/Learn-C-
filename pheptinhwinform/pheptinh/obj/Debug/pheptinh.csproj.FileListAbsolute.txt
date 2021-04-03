@@ -1,0 +1,10 @@
+E:\hao\pheptinh\pheptinh\obj\Debug\pheptinh.csprojAssemblyReference.cache
+E:\hao\pheptinh\pheptinh\obj\Debug\pheptinh.Form1.resources
+E:\hao\pheptinh\pheptinh\obj\Debug\pheptinh.Properties.Resources.resources
+E:\hao\pheptinh\pheptinh\obj\Debug\pheptinh.csproj.GenerateResource.cache
+E:\hao\pheptinh\pheptinh\obj\Debug\pheptinh.csproj.CoreCompileInputs.cache
+E:\hao\pheptinh\pheptinh\bin\Debug\pheptinh.exe.config
+E:\hao\pheptinh\pheptinh\bin\Debug\pheptinh.exe
+E:\hao\pheptinh\pheptinh\bin\Debug\pheptinh.pdb
+E:\hao\pheptinh\pheptinh\obj\Debug\pheptinh.exe
+E:\hao\pheptinh\pheptinh\obj\Debug\pheptinh.pdb

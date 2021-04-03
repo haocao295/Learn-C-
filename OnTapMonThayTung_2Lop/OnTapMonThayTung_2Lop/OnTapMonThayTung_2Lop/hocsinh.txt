@@ -1,0 +1,7 @@
+DH01 Thu 15/02/2000 Nam 363/60A Đât Mới, Bình Tân
+DH02 Hoai 04/10/2000 Nam 363/60A Đât Mới, Bình Tân
+DH03 Khanh 02/09/2000 Nam 363/60A Đât Mới, Bình Tân
+DH04 Nha 16/07/2000 Nam 363/60A Đât Mới, Bình Tân
+DH05 Long 30/05/2000 Nam 363/60A Đât Mới, Bình Tân
+DH06 Hao 01/12/2000 Nam 363/60A Đât Mới, Bình Tân
+
